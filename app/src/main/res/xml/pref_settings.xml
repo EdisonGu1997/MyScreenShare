@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory
+        android:title="@string/cate_share">
+        <SwitchPreference
+            android:key="pref_record_sound"
+            android:title="@string/cate_share"
+            android:summary="@string/summary_record_sound"
+            android:defaultValue="false"/>
+        <ListPreference
+            android:title="帧率" >
+
+        </ListPreference>
+    </PreferenceCategory>
+    <PreferenceCategory
+        android:title="@string/cate_watch">
+    </PreferenceCategory>
+</PreferenceScreen>

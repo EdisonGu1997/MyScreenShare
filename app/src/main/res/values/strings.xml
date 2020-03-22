@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">屏幕共享</string>
+    <string name="app_label">屏幕共享</string>
+    <string name="start_sharing">开始共享</string>
+    <string name="item_settings">设置</string>
+    <string name="item_about">关于</string>
+    <string name="item_exit">退出</string>
+    <string name="cate_share">共享设置</string>
+    <string name="title_record_sound">共享声音</string>
+    <string name="summary_record_sound">共享屏幕时是否共享声音</string>
+    <string name="cate_watch">观看设置</string>
+
+</resources>
